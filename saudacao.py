@@ -1,5 +1,5 @@
 def saudacao(nome): 
- return f'tenha um otimo final de semana , {nome} '
+ return f'BOM DIA , {nome} '
 
 def soma(n1 , n2):
  resultado = n1 + n2
